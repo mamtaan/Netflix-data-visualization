@@ -25,5 +25,10 @@ This project analyzes Netflix Movies and TV Shows using Python and Power BI.
 ## Dashboard
 Interactive Power BI dashboard for exploring Netflix content trends.
 
+<img width="378" height="602" alt="image" src="https://github.com/user-attachments/assets/eb4335f7-7a65-4ec0-aa78-bb985509374e" />
+
+<img width="701" height="120" alt="image" src="https://github.com/user-attachments/assets/8bae14e0-303c-4362-a5bc-162306dad010" />
+
+
 ## Dataset
 Netflix Movies and TV Shows Dataset
