@@ -30,5 +30,12 @@ Interactive Power BI dashboard for exploring Netflix content trends.
 <img width="701" height="120" alt="image" src="https://github.com/user-attachments/assets/8bae14e0-303c-4362-a5bc-162306dad010" />
 
 
+
+
+
+<img width="716" height="480" alt="image" src="https://github.com/user-attachments/assets/bce57081-52f6-4601-a320-72fcd6e8cffa" />
+
+
+
 ## Dataset
 Netflix Movies and TV Shows Dataset
